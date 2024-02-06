@@ -8,6 +8,8 @@
 
 #include "Config.h"
 #include "Arduino.h"
+#include <SPI.h>
+#include "SD_MMC.h"
 
 class OLIMEXEVB
 {
