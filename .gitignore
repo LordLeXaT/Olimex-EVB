@@ -2,5 +2,5 @@
 .vscode
 .lib
 .include
-.main.cpp
+.src/main.cpp
 .platformio.ini
