@@ -1,6 +1,6 @@
 .pio
 .vscode
-lib
-include
-src/main.cpp
-platformio.ini
+/lib
+/include
+/src/main.cpp
+/platformio.ini
