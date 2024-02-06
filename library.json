@@ -1,0 +1,20 @@
+{
+  "name": "OLIMEX-EVB_LIB",
+  "description": "OLIMEX-EVB_LIB by MasterTuX",
+  "keywords": "OLIMEX, EVB, esp32, Relais, IR",
+  "authors": {
+    "name": "MasterTuX",
+    "url": "http://192.168.178.251:8080/mastertux",
+    "maintainer": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.178.251:8080/mastertux/Olimex-EVB_LIB"
+  },
+  "version": "0.0.1",
+  "framework": "arduino",
+  "platforms": "espressif32",
+  "build": {
+    "libArchive": false
+  }
+}
